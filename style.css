@@ -12,7 +12,7 @@
 .p-senai {
     margin-top: 0;
     margin-bottom: 1rem;
-    color: var(--bs-emphasis-color)
+    color: var(--bs-code-color)
 }
 
 .h-senai {
@@ -20,5 +20,5 @@
     margin-bottom: .5rem;
     font-weight: 500;
     line-height: 1.2;
-    color: var(--bs-emphasis-color)
+    color: var(--bs-code-color)
 }
