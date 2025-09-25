@@ -1,0 +1,24 @@
+.carousel-item img {
+    width: 600px;
+    height: 700px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.preto {
+    color: black;
+}
+
+.p-senai {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: var(--bs-emphasis-color)
+}
+
+.h-senai {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: var(--bs-emphasis-color)
+}
